@@ -1,0 +1,22 @@
+{
+  "name": "quiz-node-name",
+  "version": "1.0.0",
+  "description": "A quiz game made with JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:henriquekirchheck/quizNodeGame.git",
+  "author": "Henrique Kirch Heck <henriquekirchheck@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.1",
+    "nanospinner": "^1.0.0"
+  }
+}

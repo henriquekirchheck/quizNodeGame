@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "When was JavaScript made?",
+    "responces": [
+      "January 2004",
+      "December 1996",
+      "August 1989",
+      "September 1995"
+    ],
+    "correct_index": 3
+  },
+  {
+    "prompt": "What was JavaScript's original name",
+    "responces": [
+      "Mocha",
+      "Netscape",
+      "Scripting Java",
+      "Cappuccino"
+    ],
+    "correct_index": 0
+  }
+]
